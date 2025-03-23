@@ -34,5 +34,10 @@ Passionate about open-source software, especially the Linux kernel (Current dist
 </p>
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinsho&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsho&langs_count=5&theme=radical)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsho&langs_count=5&theme=radical" alt="Top Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=jinsho&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"></td>
+  </tr>
+</table>
