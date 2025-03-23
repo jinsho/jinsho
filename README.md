@@ -1,8 +1,8 @@
 ### Oh, so you're here! Welcome!
 
-Allow me to present myself. My name is **Lewis** (Portuguese spelling: **Luiz**). I have a **Bachelor's Degree in Mechatronics Engineering** from the **University of Brasília**, a place where I got to learn a lot about computing and technology. But the truth is, I started coding when I was 14, programming Grand Theft Auto servers using C# (even though back then I didn’t really understand exactly what I was doing, but hey, it was fun LOL).
+I'm Lewis (Portuguese spelling: Luiz), a Mechatronics Engineer graduated at University of Brasília. I started coding at 14, building Grand Theft Auto servers in C# (back then I didn’t really understand exactly what I was doing, but hey, it was fun!).
 
-I really love open source software. It is my passion. **Linux** kernel (Current distro: Lubuntu) best of all. My biggest goal? To contribute to the community that made good free software that helped me achieve my personal goals (forever grateful to Anki!). This way, I can express a little bit of my gratitude.
+Passionate about open-source software, especially the Linux kernel (Current distro: Lubuntu). My biggest goal? To contribute to the community that built good free software, which helped me achieve my personal goals (forever grateful to Anki!). This way, I can express a little bit of my gratitude.
 
 ### Projects I'm proud of:
 
@@ -24,10 +24,6 @@ I really love open source software. It is my passion. **Linux** kernel (Current 
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
-
-### So you only code the whole day?
-
-No. I speak 5 languages, 3 of them are East-Asian (Japanese, Chinese, Korean). So having fun with these is cool. I also enjoy playing my guitar, especially a good heavy metal session 🤘.
 
 ### Connect with me:
 
