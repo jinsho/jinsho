@@ -1,8 +1,6 @@
 ### Oh, so you're here! Welcome!
 
-I'm Lewis (Portuguese spelling: Luiz), a Mechatronics Engineer graduated at University of Brasília. I started coding at 14, building Grand Theft Auto servers in C# (back then I didn’t really understand exactly what I was doing, but hey, it was fun!).
-
-Passionate about open-source software, especially the Linux kernel (Current distro: Lubuntu). My biggest goal? To contribute to the community that built good free software, which helped me achieve my personal goals (forever grateful to Anki!). This way, I can express a little bit of my gratitude.
+I'm Lewis (Portuguese spelling: Luiz), a Mechatronics Engineer graduated at University of Brasília. Passionate about open-source software, especially the Linux kernel (Current distro: Lubuntu). My biggest goal? To contribute to the community that built good free software, which helped me achieve my personal goals (forever grateful to Anki!). This way, I can express a little bit of my gratitude.
 
 ### Projects I'm proud of:
 
